@@ -15,7 +15,7 @@ Pod::Spec.new do |spec|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  spec.name         = "SwiftyLib"
+  spec.name         = "SwiftLib"
   spec.version      = "0.0.1"
   spec.summary      = "A CocoaPods library written in Swift"
 
@@ -82,7 +82,7 @@ This CocoaPods library helps you perform calculation.
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/yusuftekinblt/SwiftyLib.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/yusuftekinblt/SwiftLib.git", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
